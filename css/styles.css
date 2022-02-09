@@ -1,0 +1,6 @@
+.boxHead {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid royalblue;
+    padding: 4px;
+}
