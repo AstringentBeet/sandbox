@@ -1,4 +1,4 @@
-/*This wwill serve as a general style layout for most of my (first) webpages*/
+/*This will serve as a general style layout for most of my (first) webpages*/
 
 /* specific h1-h6 styling details:*/
 
@@ -6,6 +6,23 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
+
+#mainHeader{
+    border: 1px solid black;
+}
+
+.logo {
+    font-family: 'Roboto', 'sans-Serif';
+}
+
+    .logoBig{
+        font-size: 2rem;
+        border: 1px solid black;
+    }
+    .logoSmall{
+        font-size: 1.3rem;
+        border: 1px solid black;
+    }
 
 h1 {
     display: block;
